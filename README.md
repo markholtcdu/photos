@@ -1,2 +1,2 @@
 # photos
-Stores phots and css files for student access
+Stores photos and css files for student access
